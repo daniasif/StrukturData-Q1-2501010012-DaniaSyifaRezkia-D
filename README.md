@@ -1,9 +1,3 @@
-# Jawaban Tugas: Struktur Data dan Analisis Kompleksitas
-
-Fokus penjelasan pada konsep dasar struktur data, karakteristik memori, serta analisis kompleksitas waktu dan ruang.
-
----
-
 ## 1. Karakteristik Memori dan Akses Data: Array vs. Singly Linked List
 
 Perbedaan kecepatan akses antara Array dan Singly Linked List berakar pada **bagaimana elemen-elemen tersebut disimpan di dalam memori fisik (RAM)**.
